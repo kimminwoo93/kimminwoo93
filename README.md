@@ -35,7 +35,7 @@
 
 <h3>My special repository</h3>
 
-None
+- [Practice LeetCode](https://github.com/kimminwoo93/leetcode.git)
 
 <h3>How did I make this profile?</h3>
 
