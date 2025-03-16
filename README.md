@@ -29,9 +29,7 @@
 <h3>About me</h3>
 
 - 🏠 I'm currently somewhere in Seoul.
-- 🏌️ I'm currently working on Creatz Inc.
-- 🌱 I'm currently learning TypeScript, NestJS, Flutter, Figma, OOP Theory.
-- 🌈 I'm going to develop an awesome blog and iOS app. It's my goal for this year.
+- 🌱 I'm currently learning TypeScript, NestJS, Flutter.
 
 <h3>My special repository</h3>
 
